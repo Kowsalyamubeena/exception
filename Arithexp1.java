@@ -7,6 +7,7 @@ public class Arithexp1 {
 		int b=0;
 		System.out.println(a/b);
 		System.out.println("bye");
+		System.out.println("hi");
 		
 	}
 
